@@ -22,8 +22,6 @@ The Social Network API incorporates...
 ## Installation
 To run this application please run npm install and then npm run start in your terminal. 
 
-## Demo
-
 ## License
 MIT
 
