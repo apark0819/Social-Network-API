@@ -5,10 +5,8 @@
 - [Description](#description)
 - [Technologies](#Technologies)
 - [Installation](#installation)
-- [Usage](#usage)
 - [License](#license)
-- [Contribution](#contribution)
-- [Questions](#questions)
+- [Contact](#contact)
 
 ## Description
 An API designed for users to share their thoughts and socialize amongst other users.
